@@ -9,7 +9,7 @@ component1 should display the text.
 Create the task in a scenario4 folder of your project. All files of the components should be inside the
 scenario4 folder.
 
-
+PS- Data is flowing from child to parent through Emitting Events.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.14.
 
